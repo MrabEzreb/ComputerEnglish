@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hotspot_log version='160 1' process='5528' time_ms='1426863596546'>
+<vm_version>
+<name>
+Java HotSpot(TM) 64-Bit Server VM
+</name>
+<release>
+17.0-b05-fastdebug
+</release>
+<info>
+Java HotSpot(TM) 64-Bit Server VM (17.0-b05-fastdebug) for windows-amd64 JRE (1.7.0-ea-fastdebug-b76), built on Nov 12 2009 01:51:45 by &quot;java_re&quot; with MS VC++ 8.0 (VS2005)
+</info>
+</vm_version>
+<vm_arguments>
+<args>
+-Dfile.encoding=Cp1252 
+</args>
+<command>
+com.ezrebclan.computerenglish.ComputerEnglish
+</command>
+<launcher>
+SUN_STANDARD
+</launcher>
+<properties>
+java.vm.specification.version=1.0
+java.vm.specification.name=Java Virtual Machine Specification
+java.vm.specification.vendor=Sun Microsystems Inc.
+java.vm.version=17.0-b05-fastdebug
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor=Sun Microsystems Inc.
+java.vm.info=mixed mode, sharing
+java.ext.dirs=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+java.endorsed.dirs=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\endorsed
+sun.boot.library.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\bin
+java.library.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\bin;.;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files (x86)/Java/jre7/bin/client;C:/Program Files (x86)/Java/jre7/bin;C:/Program Files (x86)/Java/jre7/lib/i386;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;.\Common\Libraries;E:\KidsRuby\Git\cmd;C:\Users\bram.zerbe\KidsRuby\Git\cmd;C:\Users\bram.zerbe\AppData\Local\Google\Chrome\Application;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;C:\Program Files\Lenovo Fingerprint Reader\;C:\Program Files\Lenovo Fingerprint Reader\x86\;.\Common\Libraries;C:\Users\bram.zerbe\AppData\Local\Programs\Git\cmd;C:\Users\bram.zerbe\AppData\Local\Spoon\Cmd;C:\Users\bram.zerbe\Desktop\eclipse;
+java.home=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre
+java.class.path=C:\Users\bram.zerbe\Desktop\Programming\ComputerEnglish\target\classes
+sun.boot.class.path=C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\resources.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\rt.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\sunrsasign.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\jsse.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\jce.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\lib\charsets.jar;C:\Users\bram.zerbe\Desktop\Programming\Java - Needed Stuff\JDK 1.7 x64\jdk1.7.0\fastdebug\jre\classes
+file.encoding=Cp1252
+sun.java.launcher=SUN_STANDARD
+</properties>
+</vm_arguments>
+<tty>
+<writer thread='6772'/>
+<statistics type='opto'>
+--- Compiler Statistics ---
+Methods seen: 0  Methods parsed: 0  Nodes created: 0
+Blocks parsed: 0  Blocks seen: 0
+CCP: 0  constants found: 0
+Total frameslots = 0, Max frameslots = 0
+Nops added 0 bytes to total of 0 bytes
+Peephole: peephole rules applied: 0
+PhaseIdealLoop=0, sum _unique=0
+</statistics>
+<statistics type='nmethod'>
+Debug Data Chunks: 0, shared 0+0, non-SP&apos;s elided 0
+PcDesc Statistics:  0 queries, -1.#J comparisons per query
+  caches=0 queries=0/0, hits=0+0, tests=0+0, adds=0
+</statistics>
+<statistics type='SharedRuntime'>
+    0 inline cache miss in compiled
+    0 wrong method
+    0 unresolved static call site
+    0 unresolved virtual call site
+    0 unresolved opt virtual call site
+    2 slow partial subtype
+   12 byte array copies
+   12 short array copies
+   12 int array copies
+   12 long array copies
+</statistics>
+<writer thread='2544'/>
+<destroy_vm stamp='0.209'/>
+<tty_done stamp='0.221'/>
+</tty>
+<hotspot_log_done stamp='0.221'/>
+</hotspot_log>
