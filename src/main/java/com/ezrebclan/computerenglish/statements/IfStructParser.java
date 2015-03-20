@@ -1,4 +1,4 @@
-package com.ezrebclan.computerenglish.parser;
+package com.ezrebclan.computerenglish.statements;
 
 import com.ezrebclan.computerenglish.Sentance;
 
